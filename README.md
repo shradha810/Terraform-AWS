@@ -29,6 +29,7 @@ Clone this repository:
 git clone <repository_url>
 cd <repository_directory>
 terraform init
+terraform plan
 terraform apply
 ```
 
