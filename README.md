@@ -31,14 +31,12 @@ terraform init
 terraform apply
 
 # Output
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b38ad723-1a0c-411d-a45f-8543b6c8927f/3c668c01-97a2-4014-9756-2dfb009c19ec/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b38ad723-1a0c-411d-a45f-8543b6c8927f/147447bb-3858-4caf-9040-cb653cde3edf/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b38ad723-1a0c-411d-a45f-8543b6c8927f/5e61f95c-7552-434e-bd5a-3848dff74554/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b38ad723-1a0c-411d-a45f-8543b6c8927f/785af6b9-d42d-469b-81a6-c9b460e6b39b/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b38ad723-1a0c-411d-a45f-8543b6c8927f/d1bedc87-4321-4913-a1cd-48deeb1ca55a/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b38ad723-1a0c-411d-a45f-8543b6c8927f/cea7c5c1-a24a-4e11-b8aa-9cfc20cb7ded/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b38ad723-1a0c-411d-a45f-8543b6c8927f/db38187c-f72f-4db9-8842-6d51d3c43dd6/Untitled.png)
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/b38ad723-1a0c-411d-a45f-8543b6c8927f/44c8e2a9-b4fa-46c9-8a28-e3f073ac0c87/Untitled.png)
+![Untitled (33)](https://github.com/shradha810/Terraform-AWS/assets/60320258/ff4f1bb7-21dd-4218-a95c-5da9c3f076cd)
+![Untitled (34)](https://github.com/shradha810/Terraform-AWS/assets/60320258/573fbf65-45c6-4d9b-855c-fcdb86ad47b0)
+![Untitled (36)](https://github.com/shradha810/Terraform-AWS/assets/60320258/fb1bce5a-b708-4346-b41d-e6bf749d32d4)
+![Untitled (35)](https://github.com/shradha810/Terraform-AWS/assets/60320258/7dd96f57-91ca-435f-a660-3a83ca541563)
+
+
 
 # Clean Up
 To destroy the infrastructure and resources created by Terraform, run:
