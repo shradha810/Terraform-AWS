@@ -35,7 +35,10 @@ terraform apply
 ![Untitled (34)](https://github.com/shradha810/Terraform-AWS/assets/60320258/573fbf65-45c6-4d9b-855c-fcdb86ad47b0)
 ![Untitled (36)](https://github.com/shradha810/Terraform-AWS/assets/60320258/fb1bce5a-b708-4346-b41d-e6bf749d32d4)
 ![Untitled (35)](https://github.com/shradha810/Terraform-AWS/assets/60320258/7dd96f57-91ca-435f-a660-3a83ca541563)
-
+![Untitled (37)](https://github.com/shradha810/Terraform-AWS/assets/60320258/96890dae-ee8a-46fe-9b1c-4f2ee38c0bed)
+![Untitled (38)](https://github.com/shradha810/Terraform-AWS/assets/60320258/8c939f6d-a766-45a3-b221-42c5ff1985f1)
+![Untitled (39)](https://github.com/shradha810/Terraform-AWS/assets/60320258/c68dea29-d156-4b25-a309-6b812bb883ba)
+![Untitled (40)](https://github.com/shradha810/Terraform-AWS/assets/60320258/ee06e047-8c54-46d4-94ed-0f894478dbf5)
 
 
 # Clean Up
