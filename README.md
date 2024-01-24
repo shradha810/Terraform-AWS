@@ -25,10 +25,12 @@ Refer to the variable definitions in your Terraform configuration file for detai
 
 # Quick Start
 Clone this repository:
+```
 git clone <repository_url>
 cd <repository_directory>
 terraform init
 terraform apply
+```
 
 # Output
 ![Untitled (33)](https://github.com/shradha810/Terraform-AWS/assets/60320258/ff4f1bb7-21dd-4218-a95c-5da9c3f076cd)
@@ -43,7 +45,9 @@ terraform apply
 
 # Clean Up
 To destroy the infrastructure and resources created by Terraform, run:
+```
 terraform destroy -auto-approve
+```
 
 # Important Notes
 - Ensure that your AWS credentials are properly configured on your local machine.
