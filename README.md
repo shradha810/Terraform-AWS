@@ -1,6 +1,7 @@
 # Overview
 This Terraform project deploys an infrastructure on AWS, consisting of a Virtual Private Cloud (VPC) with two subnets, an Internet Gateway, 
 Security Groups, an Amazon S3 bucket, EC2 instances, and an Application Load Balancer (ALB). The infrastructure is designed to host a web application using nginx.
+The traffic flow begins with a user request directed to the ALB, which routes it to an EC2 instance. During EC2 creation using user\_data.sh, the instance accesses an image from S3 via the Internet Gateway, incorporating it into the website along with additional text before displaying the content to the user.
 
 # VPC Setup
 The project creates a VPC with a specified CIDR block and two public subnets in different availability zones.
